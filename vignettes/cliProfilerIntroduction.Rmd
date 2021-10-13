@@ -74,7 +74,7 @@ The annotation file that required by functions `exonProfile`,
 `geneTypeProfile`, `intronProfile`, `spliceSiteProfile` and `metaGeneProfile` 
 should be in the `gff3` format and download from 
 [https://www.gencodegenes.org/](https://www.gencodegenes.org/). In the 
-`r Biocpkg("GenomicRanges")` package, we include a test `gff3` file.
+`r Biocpkg("cliProfiler")` package, we include a test `gff3` file.
 
 ```{r}
 ## the path for the test gff3 file
